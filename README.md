@@ -19,8 +19,8 @@
 <hr/>
 
 <a href="https://github.com/victorlopesz/convoychat">
-  <img height=100 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=victorlopesz&layout=compact&langs_count=8&card_width=320&bg_color=00000000" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=victorlopesz&layout=compact&langs_count=8&card_width=320&bg_color=00000000" />
 </a>
 <a href="https://github.com/victorlopesz/github-readme-stats">
-  <img height=100 align="center" src="https://github-readme-stats.vercel.app/api?username=victorlopesz&bg_color=00000000" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=victorlopesz&bg_color=00000000" />
 </a>
