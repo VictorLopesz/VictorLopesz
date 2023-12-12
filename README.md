@@ -25,6 +25,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30" height="30" />
 </div>                            
 <hr/>
+<br/>
 <div align="left">
   <a href="https://t.me/pleasevictor" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"  width="90" height="25"></a>
   <a href="https://wa.me/5521980260633" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"  width="90" height="25"></a>
