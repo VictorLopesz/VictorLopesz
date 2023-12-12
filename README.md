@@ -5,6 +5,6 @@
 - 👨🏾‍💻 Aprendendo linguagens novas e colocando em prática meus conhecimentos
 - 😄 Pronome: Ele/Dele
 
-https://github.com/VictorLopesz/VictorLopesz/blob/output/github-contribution-grid-snake.gif
+![Snake animation](https://github.com/VictorLopesz/VictorLopesz/blob/output/github-contribution-grid-snake.svg)
 
-![snake gif](https://github.com/VictorLopesz/VictorLopesz/blob/output/github-contribution-grid-snake.gif)
+[![readme](https://github-readme-stats.vercel.app/api/pin/?username=VictorLopesz&repo=VictorLopesz&theme=react)](https://github.com/VictorLopesz/VictorLopesz)
