@@ -57,13 +57,9 @@
 
 <div align="center">
 
-<a href="https://github.com/victorlopesz">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=victorlopesz&show_icons=true&bg_color=00000000&hide_border=true" />
-</a>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=victorlopesz&show_icons=true&theme=transparent" />
 
-<a href="https://github.com/victorlopesz">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=victorlopesz&layout=compact&langs_count=8&bg_color=00000000&hide_border=true" />
-</a>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorlopesz&layout=compact&theme=transparent" />
 
 </div>
 
